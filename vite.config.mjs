@@ -51,8 +51,6 @@ export default defineConfig({
     extensions: [".js", ".json", ".jsx", ".mjs", ".ts", ".tsx", ".vue"],
   },
   base: "/Blog-preview-card-FM-challenge-12/",
-  // other config settings
-
   server: {
     port: 3000,
   },
